@@ -6,9 +6,9 @@ These are some small projects I made using JavaScript.
 
 ## Projects
 
-* [Pizza Project](#pizza-project-table)
-* [Tic-Tac-Toe Game](#tic-tac-toe-game-table)
-* [Calculator](#calculator-table)
+* [Pizza Project](#pizza-project)
+* [Tic-Tac-Toe Game](#tic-tac-toe-game)
+* [Calculator](#calculator)
 
 
 

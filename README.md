@@ -7,8 +7,8 @@ These are some small projects I made using JavaScript.
 ## Projects
 
 * [Pizza Project](https://github.com/ravenannn/JavaScript-Projects/tree/main/Pizza_Project)
-* [Tic-Tac-Toe Game](#tic-tac-toe-game)
-* [Calculator](#calculator)
+* [Tic-Tac-Toe Game](https://github.com/ravenannn/JavaScript-Projects/tree/main/TicTacToe)
+* [Calculator](https://github.com/ravenannn/JavaScript-Projects/tree/main/Calculator_Project)
 
 
 
